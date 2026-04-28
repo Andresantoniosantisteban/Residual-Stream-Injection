@@ -63,18 +63,7 @@ The discovery of **Permeable Segmentation** provides a blueprint for the next ge
 `PIEDRA_ROSETA/README.md` for full technical logs and JSON evidence.
 
 
-
 ---
-
-## [2026-04-28 16:20] - Pilar de la Identidad y Sincronización
-- **Hallazgo:** Se detectó una desviación del 3.11% en la Capa 12 al usar un prompt distinto al original.
-- **Acción:** Se actualizó el reporte industrial para usar el **Protocolo 29** y las **Secuencias Maestras** originales.
-- **Resultado:** **ÉXITO TOTAL (100.000000% de coincidencia)**. El Pilar de la Identidad ha sido asegurado. La planta industrial produce firmas idénticas al Diccionario Sagrado.
-
-## [2026-04-28 16:25] - El Duelo de Vectores (Capa 16)
-- **Hallazgo Crítico:** La reversibilidad fallaba a partir de la Capa 16. Al comparar el vector real con el sintético (basado en medias), encontramos una similitud de solo el **74.95%**.
-- **Conclusión Forense:** El modelo no usa "Identidades Promedio", usa **"Identidades Contextuales"**. Un '8' rodeado de números es distinto a un '8' solo, especialmente en las capas de decisión final.
-- **Lección:** No se pueden usar promedios para la reversibilidad absoluta. Cada capa es un ecosistema que exige el vector exacto de su contexto.
 
 ## [2026-04-28 20:03] - VALIDACIÓN DE SOBERANÍA UNIVERSAL (ES/EN/ZH)
 - **Experimento:** 73_COMPARATIVA_MULTILINGUE y 74_VALIDACION_PORTABILIDAD.
@@ -82,7 +71,6 @@ The discovery of **Permeable Segmentation** provides a blueprint for the next ge
 - **Conclusión Forense:** La identidad de los números es **Universal**. Un vector extraído en español es matemáticamente equivalente al extraído en inglés.
 - **Hito:** Se certifica la **Portabilidad del Diccionario Sagrado**. Los clones pueden ser usados en cualquier contexto lingüístico con la misma eficacia.
 ## [2026-04-28 20:55] - HITO: LEY DE ESTABILIDAD POR EXCLUSIVIDAD (LA Ñ SOBERANA)
-- **Investigador:** USER
 - **Descubrimiento:** Se ha descubierto que la estabilidad de un concepto en el espacio latente es **directamente proporcional a su exclusividad cultural**.
 - **Evidencia:** 
     - **Números (Redundantes):** Estabilidad del **89%** (Fracturados por la redundancia idiomática).
