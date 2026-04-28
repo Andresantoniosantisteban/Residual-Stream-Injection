@@ -1,0 +1,212 @@
+[
+    {
+        "idioma": "ES",
+        "d\u00edgito_inyectado": "0",
+        "capa": 12,
+        "respuesta_modelo": "\"0\"",
+        "exito": true
+    },
+    {
+        "idioma": "ES",
+        "d\u00edgito_inyectado": "1",
+        "capa": 12,
+        "respuesta_modelo": "1",
+        "exito": true
+    },
+    {
+        "idioma": "ES",
+        "d\u00edgito_inyectado": "2",
+        "capa": 12,
+        "respuesta_modelo": "\"2\"",
+        "exito": true
+    },
+    {
+        "idioma": "ES",
+        "d\u00edgito_inyectado": "3",
+        "capa": 12,
+        "respuesta_modelo": "3",
+        "exito": true
+    },
+    {
+        "idioma": "ES",
+        "d\u00edgito_inyectado": "4",
+        "capa": 12,
+        "respuesta_modelo": "\"4\"",
+        "exito": true
+    },
+    {
+        "idioma": "ES",
+        "d\u00edgito_inyectado": "5",
+        "capa": 12,
+        "respuesta_modelo": "\"5\"",
+        "exito": true
+    },
+    {
+        "idioma": "ES",
+        "d\u00edgito_inyectado": "6",
+        "capa": 12,
+        "respuesta_modelo": "\"6\"",
+        "exito": true
+    },
+    {
+        "idioma": "ES",
+        "d\u00edgito_inyectado": "7",
+        "capa": 12,
+        "respuesta_modelo": "\"7\"",
+        "exito": true
+    },
+    {
+        "idioma": "ES",
+        "d\u00edgito_inyectado": "8",
+        "capa": 12,
+        "respuesta_modelo": "\"8\"",
+        "exito": true
+    },
+    {
+        "idioma": "ES",
+        "d\u00edgito_inyectado": "9",
+        "capa": 12,
+        "respuesta_modelo": "\"9\"",
+        "exito": true
+    },
+    {
+        "idioma": "EN",
+        "d\u00edgito_inyectado": "0",
+        "capa": 12,
+        "respuesta_modelo": "0",
+        "exito": true
+    },
+    {
+        "idioma": "EN",
+        "d\u00edgito_inyectado": "1",
+        "capa": 12,
+        "respuesta_modelo": "1",
+        "exito": true
+    },
+    {
+        "idioma": "EN",
+        "d\u00edgito_inyectado": "2",
+        "capa": 12,
+        "respuesta_modelo": "2",
+        "exito": true
+    },
+    {
+        "idioma": "EN",
+        "d\u00edgito_inyectado": "3",
+        "capa": 12,
+        "respuesta_modelo": "3",
+        "exito": true
+    },
+    {
+        "idioma": "EN",
+        "d\u00edgito_inyectado": "4",
+        "capa": 12,
+        "respuesta_modelo": "4",
+        "exito": true
+    },
+    {
+        "idioma": "EN",
+        "d\u00edgito_inyectado": "5",
+        "capa": 12,
+        "respuesta_modelo": "5",
+        "exito": true
+    },
+    {
+        "idioma": "EN",
+        "d\u00edgito_inyectado": "6",
+        "capa": 12,
+        "respuesta_modelo": "6",
+        "exito": true
+    },
+    {
+        "idioma": "EN",
+        "d\u00edgito_inyectado": "7",
+        "capa": 12,
+        "respuesta_modelo": "7",
+        "exito": true
+    },
+    {
+        "idioma": "EN",
+        "d\u00edgito_inyectado": "8",
+        "capa": 12,
+        "respuesta_modelo": "8",
+        "exito": true
+    },
+    {
+        "idioma": "EN",
+        "d\u00edgito_inyectado": "9",
+        "capa": 12,
+        "respuesta_modelo": "9",
+        "exito": true
+    },
+    {
+        "idioma": "ZH",
+        "d\u00edgito_inyectado": "0",
+        "capa": 12,
+        "respuesta_modelo": "\u597d\u7684\uff0c\u6211\u5c06\u4e3a\u60a8",
+        "exito": false
+    },
+    {
+        "idioma": "ZH",
+        "d\u00edgito_inyectado": "1",
+        "capa": 12,
+        "respuesta_modelo": "\u5f53\u7136\u53ef\u4ee5\uff0c\u4ee5\u4e0b\u662f1",
+        "exito": true
+    },
+    {
+        "idioma": "ZH",
+        "d\u00edgito_inyectado": "2",
+        "capa": 12,
+        "respuesta_modelo": "\u5f53\u7136\u53ef\u4ee5\uff0c\u8fd9\u91cc\u662f\u60a8",
+        "exito": false
+    },
+    {
+        "idioma": "ZH",
+        "d\u00edgito_inyectado": "3",
+        "capa": 12,
+        "respuesta_modelo": "\u5f53\u7136\u53ef\u4ee5\uff0c\u4ee5\u4e0b\u662f3",
+        "exito": true
+    },
+    {
+        "idioma": "ZH",
+        "d\u00edgito_inyectado": "4",
+        "capa": 12,
+        "respuesta_modelo": "\u5f53\u7136\u53ef\u4ee5\uff0c\u4ee5\u4e0b\u662f4",
+        "exito": true
+    },
+    {
+        "idioma": "ZH",
+        "d\u00edgito_inyectado": "5",
+        "capa": 12,
+        "respuesta_modelo": "\u5f53\u7136\u53ef\u4ee5\uff0c\u4ee5\u4e0b\u662f5",
+        "exito": true
+    },
+    {
+        "idioma": "ZH",
+        "d\u00edgito_inyectado": "6",
+        "capa": 12,
+        "respuesta_modelo": "\u5f53\u7136\u53ef\u4ee5\uff0c\u4ee5\u4e0b\u662f6",
+        "exito": true
+    },
+    {
+        "idioma": "ZH",
+        "d\u00edgito_inyectado": "7",
+        "capa": 12,
+        "respuesta_modelo": "\u5f53\u7136\u53ef\u4ee5\uff0c\u4ee5\u4e0b\u662f7",
+        "exito": true
+    },
+    {
+        "idioma": "ZH",
+        "d\u00edgito_inyectado": "8",
+        "capa": 12,
+        "respuesta_modelo": "\u597d\u7684\uff0c\u6211\u5c068",
+        "exito": true
+    },
+    {
+        "idioma": "ZH",
+        "d\u00edgito_inyectado": "9",
+        "capa": 12,
+        "respuesta_modelo": "\u5f53\u7136\u53ef\u4ee5\uff0c\u4ee5\u4e0b\u662f9",
+        "exito": true
+    }
+]
