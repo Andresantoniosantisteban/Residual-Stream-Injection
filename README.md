@@ -1,4 +1,6 @@
-Neural Identity Forge: Residual Stream Intervention & The Vector Rosetta Stone
+Neural Identity Forge:
+Residual Stream Intervention & The Vector Rosetta Stone
+
 Executive Summary
 This repository contains the empirical data and core scripts of independent mechanistic interpretability research conducted on Qwen2.5-0.5B. By reverse-engineering the residual stream, this research maps the exact functional topology of latent feature representation, culminating in the discovery of the "Data Port" at Layer 12
 .
