@@ -1,0 +1,177 @@
+[
+    {
+        "capa": 0,
+        "fase": "TRADUCCIÓN",
+        "cohesion_bus": 1.0,
+        "pureza_token": 1.0,
+        "proximidad_final": -0.0028
+    },
+    {
+        "capa": 1,
+        "fase": "TRADUCCIÓN",
+        "cohesion_bus": 1.0,
+        "pureza_token": 0.0669,
+        "proximidad_final": -0.0062
+    },
+    {
+        "capa": 2,
+        "fase": "TRADUCCIÓN",
+        "cohesion_bus": 1.0,
+        "pureza_token": 0.4146,
+        "proximidad_final": 0.0103
+    },
+    {
+        "capa": 3,
+        "fase": "TRADUCCIÓN",
+        "cohesion_bus": 1.0,
+        "pureza_token": 0.4724,
+        "proximidad_final": 0.0095
+    },
+    {
+        "capa": 4,
+        "fase": "TRÁNSITO",
+        "cohesion_bus": 0.9999,
+        "pureza_token": 0.144,
+        "proximidad_final": 0.0277
+    },
+    {
+        "capa": 5,
+        "fase": "TRÁNSITO",
+        "cohesion_bus": 0.9991,
+        "pureza_token": 0.2852,
+        "proximidad_final": 0.0139
+    },
+    {
+        "capa": 6,
+        "fase": "TRÁNSITO",
+        "cohesion_bus": 0.9992,
+        "pureza_token": 0.2114,
+        "proximidad_final": 0.0451
+    },
+    {
+        "capa": 7,
+        "fase": "TRÁNSITO",
+        "cohesion_bus": 0.9991,
+        "pureza_token": 0.1696,
+        "proximidad_final": 0.0373
+    },
+    {
+        "capa": 8,
+        "fase": "TRÁNSITO",
+        "cohesion_bus": 0.9993,
+        "pureza_token": 0.2864,
+        "proximidad_final": 0.0318
+    },
+    {
+        "capa": 9,
+        "fase": "TRÁNSITO",
+        "cohesion_bus": 0.9991,
+        "pureza_token": 0.5166,
+        "proximidad_final": 0.0231
+    },
+    {
+        "capa": 10,
+        "fase": "TRÁNSITO",
+        "cohesion_bus": 0.9989,
+        "pureza_token": 0.353,
+        "proximidad_final": 0.0293
+    },
+    {
+        "capa": 11,
+        "fase": "TRÁNSITO",
+        "cohesion_bus": 0.9968,
+        "pureza_token": 0.7139,
+        "proximidad_final": 0.0526
+    },
+    {
+        "capa": 12,
+        "fase": "BOQUILLA/PREPARACIÓN",
+        "cohesion_bus": 0.9965,
+        "pureza_token": 0.3621,
+        "proximidad_final": 0.0438
+    },
+    {
+        "capa": 13,
+        "fase": "BOQUILLA/PREPARACIÓN",
+        "cohesion_bus": 0.9951,
+        "pureza_token": 0.0888,
+        "proximidad_final": 0.0469
+    },
+    {
+        "capa": 14,
+        "fase": "BOQUILLA/PREPARACIÓN",
+        "cohesion_bus": 0.9951,
+        "pureza_token": 0.0834,
+        "proximidad_final": 0.0812
+    },
+    {
+        "capa": 15,
+        "fase": "BOQUILLA/PREPARACIÓN",
+        "cohesion_bus": 0.99,
+        "pureza_token": 0.1042,
+        "proximidad_final": 0.1003
+    },
+    {
+        "capa": 16,
+        "fase": "BOQUILLA/PREPARACIÓN",
+        "cohesion_bus": 0.9913,
+        "pureza_token": 0.0533,
+        "proximidad_final": 0.0916
+    },
+    {
+        "capa": 17,
+        "fase": "BOQUILLA/PREPARACIÓN",
+        "cohesion_bus": 0.9825,
+        "pureza_token": 0.0522,
+        "proximidad_final": 0.162
+    },
+    {
+        "capa": 18,
+        "fase": "BOQUILLA/PREPARACIÓN",
+        "cohesion_bus": 0.9853,
+        "pureza_token": 0.0647,
+        "proximidad_final": 0.1831
+    },
+    {
+        "capa": 19,
+        "fase": "BOQUILLA/PREPARACIÓN",
+        "cohesion_bus": 0.9834,
+        "pureza_token": 0.0203,
+        "proximidad_final": 0.1863
+    },
+    {
+        "capa": 20,
+        "fase": "BOQUILLA/PREPARACIÓN",
+        "cohesion_bus": 0.9805,
+        "pureza_token": 0.3694,
+        "proximidad_final": 0.2625
+    },
+    {
+        "capa": 21,
+        "fase": "EMBUDO/LIMPIEZA",
+        "cohesion_bus": 0.9772,
+        "pureza_token": 0.2061,
+        "proximidad_final": 0.3137
+    },
+    {
+        "capa": 22,
+        "fase": "EMBUDO/LIMPIEZA",
+        "cohesion_bus": 0.9806,
+        "pureza_token": 0.034,
+        "proximidad_final": 0.2869
+    },
+    {
+        "capa": 23,
+        "fase": "EMBUDO/LIMPIEZA",
+        "cohesion_bus": 0.9628,
+        "pureza_token": 0.144,
+        "proximidad_final": 0.405
+    },
+    {
+        "capa": 24,
+        "fase": "EMBUDO/LIMPIEZA",
+        "cohesion_bus": 0.971,
+        "pureza_token": 0.2996,
+        "proximidad_final": 1.0
+    }
+]

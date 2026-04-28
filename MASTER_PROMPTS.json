@@ -1,0 +1,31 @@
+{
+    "descripcion": "Dataset Maestro Purificado. Solo contiene los números con transporte limpio (sin ruido conversacional excesivo).",
+    "configuracion": {
+        "temperature": 0.0,
+        "do_sample": false,
+        "max_new_tokens": 50
+    },
+    "prompts": [
+        {
+            "id": "NUM_02",
+            "numero": "102938475612",
+            "prompt": "Repite exactamente '102938475612'",
+            "esperado": "102938475612",
+            "respuesta_modelo": "\"102938475612\""
+        },
+        {
+            "id": "NUM_04",
+            "numero": "123456789012",
+            "prompt": "Repite exactamente '123456789012'",
+            "esperado": "123456789012",
+            "respuesta_modelo": "\"123456789012\""
+        },
+        {
+            "id": "NUM_05",
+            "numero": "998877665544",
+            "prompt": "Repite exactamente '998877665544'",
+            "esperado": "998877665544",
+            "respuesta_modelo": "\"998877665544\""
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+[
+    {
+        "capa": 0,
+        "superposicion_estructural": 1.0,
+        "ratio_dato_proceso": 0.0,
+        "sim_12": 1.0,
+        "sim_23": 1.0,
+        "sim_31": 1.0
+    },
+    {
+        "capa": 1,
+        "superposicion_estructural": 0.99999,
+        "ratio_dato_proceso": 0.002216,
+        "sim_12": 0.999996,
+        "sim_23": 0.999987,
+        "sim_31": 0.999986
+    },
+    {
+        "capa": 2,
+        "superposicion_estructural": 0.999979,
+        "ratio_dato_proceso": 0.003661,
+        "sim_12": 0.999994,
+        "sim_23": 0.999976,
+        "sim_31": 0.999965
+    },
+    {
+        "capa": 3,
+        "superposicion_estructural": 0.999957,
+        "ratio_dato_proceso": 0.005322,
+        "sim_12": 0.999988,
+        "sim_23": 0.999954,
+        "sim_31": 0.99993
+    },
+    {
+        "capa": 4,
+        "superposicion_estructural": 0.999892,
+        "ratio_dato_proceso": 0.007609,
+        "sim_12": 0.999945,
+        "sim_23": 0.999867,
+        "sim_31": 0.999863
+    },
+    {
+        "capa": 5,
+        "superposicion_estructural": 0.999107,
+        "ratio_dato_proceso": 0.019145,
+        "sim_12": 0.99934,
+        "sim_23": 0.998762,
+        "sim_31": 0.999219
+    },
+    {
+        "capa": 6,
+        "superposicion_estructural": 0.999181,
+        "ratio_dato_proceso": 0.017712,
+        "sim_12": 0.999259,
+        "sim_23": 0.998823,
+        "sim_31": 0.999461
+    },
+    {
+        "capa": 7,
+        "superposicion_estructural": 0.9991,
+        "ratio_dato_proceso": 0.019012,
+        "sim_12": 0.999053,
+        "sim_23": 0.998741,
+        "sim_31": 0.999506
+    },
+    {
+        "capa": 8,
+        "superposicion_estructural": 0.999295,
+        "ratio_dato_proceso": 0.018567,
+        "sim_12": 0.99923,
+        "sim_23": 0.999107,
+        "sim_31": 0.999547
+    },
+    {
+        "capa": 9,
+        "superposicion_estructural": 0.999052,
+        "ratio_dato_proceso": 0.023421,
+        "sim_12": 0.99881,
+        "sim_23": 0.998923,
+        "sim_31": 0.999422
+    },
+    {
+        "capa": 10,
+        "superposicion_estructural": 0.998947,
+        "ratio_dato_proceso": 0.027756,
+        "sim_12": 0.998494,
+        "sim_23": 0.999049,
+        "sim_31": 0.999297
+    },
+    {
+        "capa": 11,
+        "superposicion_estructural": 0.996819,
+        "ratio_dato_proceso": 0.04357,
+        "sim_12": 0.995357,
+        "sim_23": 0.996473,
+        "sim_31": 0.998627
+    },
+    {
+        "capa": 12,
+        "superposicion_estructural": 0.996496,
+        "ratio_dato_proceso": 0.044966,
+        "sim_12": 0.994958,
+        "sim_23": 0.995998,
+        "sim_31": 0.998532
+    },
+    {
+        "capa": 13,
+        "superposicion_estructural": 0.995087,
+        "ratio_dato_proceso": 0.054932,
+        "sim_12": 0.992934,
+        "sim_23": 0.994676,
+        "sim_31": 0.997653
+    },
+    {
+        "capa": 14,
+        "superposicion_estructural": 0.995147,
+        "ratio_dato_proceso": 0.054276,
+        "sim_12": 0.993193,
+        "sim_23": 0.994694,
+        "sim_31": 0.997554
+    },
+    {
+        "capa": 15,
+        "superposicion_estructural": 0.989976,
+        "ratio_dato_proceso": 0.075765,
+        "sim_12": 0.985679,
+        "sim_23": 0.988436,
+        "sim_31": 0.995812
+    },
+    {
+        "capa": 16,
+        "superposicion_estructural": 0.991268,
+        "ratio_dato_proceso": 0.069597,
+        "sim_12": 0.987568,
+        "sim_23": 0.989733,
+        "sim_31": 0.996503
+    },
+    {
+        "capa": 17,
+        "superposicion_estructural": 0.9825,
+        "ratio_dato_proceso": 0.089406,
+        "sim_12": 0.986348,
+        "sim_23": 0.976777,
+        "sim_31": 0.984374
+    },
+    {
+        "capa": 18,
+        "superposicion_estructural": 0.985274,
+        "ratio_dato_proceso": 0.080467,
+        "sim_12": 0.988555,
+        "sim_23": 0.979961,
+        "sim_31": 0.987307
+    },
+    {
+        "capa": 19,
+        "superposicion_estructural": 0.983426,
+        "ratio_dato_proceso": 0.085504,
+        "sim_12": 0.984228,
+        "sim_23": 0.977544,
+        "sim_31": 0.988505
+    },
+    {
+        "capa": 20,
+        "superposicion_estructural": 0.98054,
+        "ratio_dato_proceso": 0.095374,
+        "sim_12": 0.980701,
+        "sim_23": 0.974503,
+        "sim_31": 0.986416
+    },
+    {
+        "capa": 21,
+        "superposicion_estructural": 0.977186,
+        "ratio_dato_proceso": 0.099979,
+        "sim_12": 0.982195,
+        "sim_23": 0.968734,
+        "sim_31": 0.980629
+    },
+    {
+        "capa": 22,
+        "superposicion_estructural": 0.980605,
+        "ratio_dato_proceso": 0.091505,
+        "sim_12": 0.987634,
+        "sim_23": 0.973464,
+        "sim_31": 0.980718
+    },
+    {
+        "capa": 23,
+        "superposicion_estructural": 0.962844,
+        "ratio_dato_proceso": 0.121717,
+        "sim_12": 0.985982,
+        "sim_23": 0.946824,
+        "sim_31": 0.955726
+    },
+    {
+        "capa": 24,
+        "superposicion_estructural": 0.971043,
+        "ratio_dato_proceso": 0.116694,
+        "sim_12": 0.980891,
+        "sim_23": 0.962018,
+        "sim_31": 0.97022
+    }
+]

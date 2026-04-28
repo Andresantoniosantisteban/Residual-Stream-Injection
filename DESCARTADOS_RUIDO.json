@@ -1,0 +1,19 @@
+{
+    "descripcion": "Prompts descartados de la base principal por presentar ruido conversacional excesivo (alucinación de metadatos). Útiles para estudiar el 'Tratamiento de Explicación' de la Boquilla.",
+    "prompts": [
+        {
+            "id": "NUM_01",
+            "numero": "943743475734",
+            "prompt": "Repite exactamente '943743475734'",
+            "esperado": "943743475734",
+            "respuesta_modelo": "The number \"943743475734\" is an 11-digit number. It does not contain any special characters or numbers that might be considered sensitive in certain contexts. If you have any specific requirements or need"
+        },
+        {
+            "id": "NUM_02",
+            "numero": "556677889900",
+            "prompt": "Repite exactamente '556677889900'",
+            "esperado": "556677889900",
+            "respuesta_modelo": "The number \"556677889900\" is not a standard numerical format or a valid representation of an ID or other unique identifier. It appears to be a random string of digits without any specific meaning or context."
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+[
+    {
+        "caracter_inyectado": "a",
+        "capa": 12,
+        "respuesta_modelo": "a",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "b",
+        "capa": 12,
+        "respuesta_modelo": "b",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "c",
+        "capa": 12,
+        "respuesta_modelo": "a",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "d",
+        "capa": 12,
+        "respuesta_modelo": "a",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "e",
+        "capa": 12,
+        "respuesta_modelo": "e",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "f",
+        "capa": 12,
+        "respuesta_modelo": "f",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "g",
+        "capa": 12,
+        "respuesta_modelo": "great! Here is",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "h",
+        "capa": 12,
+        "respuesta_modelo": "h",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "i",
+        "capa": 12,
+        "respuesta_modelo": "i",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "j",
+        "capa": 12,
+        "respuesta_modelo": "jai",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "k",
+        "capa": 12,
+        "respuesta_modelo": "k",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "l",
+        "capa": 12,
+        "respuesta_modelo": "l",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "m",
+        "capa": 12,
+        "respuesta_modelo": "m m m",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "n",
+        "capa": 12,
+        "respuesta_modelo": "n/a",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "o",
+        "capa": 12,
+        "respuesta_modelo": "o",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "p",
+        "capa": 12,
+        "respuesta_modelo": "p p p",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "q",
+        "capa": 12,
+        "respuesta_modelo": "qwen: qwen",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "r",
+        "capa": 12,
+        "respuesta_modelo": "rereplicating",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "s",
+        "capa": 12,
+        "respuesta_modelo": "a",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "t",
+        "capa": 12,
+        "respuesta_modelo": "taste",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "u",
+        "capa": 12,
+        "respuesta_modelo": "u",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "v",
+        "capa": 12,
+        "respuesta_modelo": "voca",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "w",
+        "capa": 12,
+        "respuesta_modelo": "waste no time.",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "x",
+        "capa": 12,
+        "respuesta_modelo": "x",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "y",
+        "capa": 12,
+        "respuesta_modelo": "y",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "z",
+        "capa": 12,
+        "respuesta_modelo": "z",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "A",
+        "capa": 12,
+        "respuesta_modelo": "A",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "B",
+        "capa": 12,
+        "respuesta_modelo": "B B",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "C",
+        "capa": 12,
+        "respuesta_modelo": "Cest exactement ",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "D",
+        "capa": 12,
+        "respuesta_modelo": "Deng Xiaoping",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "E",
+        "capa": 12,
+        "respuesta_modelo": "Ecco la frase ",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "F",
+        "capa": 12,
+        "respuesta_modelo": "F",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "G",
+        "capa": 12,
+        "respuesta_modelo": "Gotta.",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "H",
+        "capa": 12,
+        "respuesta_modelo": "H",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "I",
+        "capa": 12,
+        "respuesta_modelo": "I apologize, but I",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "J",
+        "capa": 12,
+        "respuesta_modelo": "J",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "K",
+        "capa": 12,
+        "respuesta_modelo": "Kuai.",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "L",
+        "capa": 12,
+        "respuesta_modelo": "L\u00e0",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "M",
+        "capa": 12,
+        "respuesta_modelo": "Mai Zhong.",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "N",
+        "capa": 12,
+        "respuesta_modelo": "N\u01d0 k\u011by",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "O",
+        "capa": 12,
+        "respuesta_modelo": "Obrigado! A",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "P",
+        "capa": 12,
+        "respuesta_modelo": "Pep Peppermint",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "Q",
+        "capa": 12,
+        "respuesta_modelo": "Qwen: Repite",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "R",
+        "capa": 12,
+        "respuesta_modelo": "Ripeti exat",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "S",
+        "capa": 12,
+        "respuesta_modelo": "S",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "T",
+        "capa": 12,
+        "respuesta_modelo": "T",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "U",
+        "capa": 12,
+        "respuesta_modelo": "Ugh, Im",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "V",
+        "capa": 12,
+        "respuesta_modelo": "Vowel A",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "W",
+        "capa": 12,
+        "respuesta_modelo": "WAAAAAaaa!",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "X",
+        "capa": 12,
+        "respuesta_modelo": "X",
+        "exito": true
+    },
+    {
+        "caracter_inyectado": "Y",
+        "capa": 12,
+        "respuesta_modelo": "Yi.",
+        "exito": false
+    },
+    {
+        "caracter_inyectado": "Z",
+        "capa": 12,
+        "respuesta_modelo": "Zi Zhi Z",
+        "exito": false
+    }
+]
