@@ -87,7 +87,7 @@ Concepts in an LLM are not isolated data points, but **topographic reliefs** wit
 🇪🇸 [ES] Explicación Técnica: Relieves y Contra-moldes
 "Mi investigación ha demostrado que los conceptos en un LLM no son simples puntos de datos, sino relieves topográficos en el espacio de pesos. Mediante el uso de presión L1 extrema, logro aislar estos relieves en un 'Molde Conceptual' (Caset). Al restar este molde del modelo base, ejecuto una anulación de frecuencias por interferencia destructiva, creando un 'Contra-molde' que silencia el concepto objetivo sin afectar la integridad del resto de la red. El resultado es un modelo mutante con lagunas de conocimiento quirúrgicamente precisas.
 Para lograr esto, he modificado el proceso de fine-tuning estándar, convirtiéndolo en un motor de destilación por presión atómica. Mediante una penalización L1 extrema, provoco una 'hambruna neuronal' que obliga al modelo a colapsar todas las conexiones redundantes, dejando solo el esqueleto puro del concepto objetivo. No es un entrenamiento de adición de conocimiento, sino una extracción quirúrgica de relieve que luego usamos para la anulación por resta.
-"
+
 
 🇺🇸 [EN] Technical Explanation: Reliefs and Counter-molds
 "My research proves that concepts within an LLM are not mere data points, but topographic reliefs within the weight space. By applying extreme L1 pressure, I isolate these reliefs into a 'Conceptual Mold' (Cassette). By subtracting this mold from the base model, I perform frequency cancellation via destructive interference, creating a 'Counter-mold' that silences the target concept without compromising the integrity of the remaining network. The result is a mutated model with surgically precise knowledge gaps.
@@ -97,3 +97,4 @@ To achieve this, I have modified the standard fine-tuning process into an atomic
 **Andres Santisteban**
 *Neural Identity Forge | Forensic Interpretability Researcher*
 `PIEDRA_ROSETA/README.md` for full technical logs and JSON evidence.
+
