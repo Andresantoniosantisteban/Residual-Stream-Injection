@@ -61,6 +61,32 @@ This project proves that we can achieve **deterministic control** over LLM outpu
 
 > **Final Vision**: My goal is to move from observing AI behavior to **engineering neural certainty**. I am building the tools to map the "Nervous System" of AGI.
 
+# 🧬 PROTOCOLO DE IDEA AISLADA / ISOLATED IDEA PROTOCOL / 孤立思想协议
+
+## 🇪🇸 [ES] LA LÓGICA DEL MOLDE INVERSO
+Los conceptos en un LLM no son datos aislados, sino **relieves topográficos** en la masa de pesos. 
+- **El Caset**: Al entrenar con presión L1 extrema, forzamos a que solo el relieve de la "Idea Aislada" (el perro) sea prominente, borrando el ruido circundante.
+- **La Resta**: Al restar este relieve del modelo original, creamos un **vacío cuántico** de información. 
+- **Conexiones Fantasma**: La red intenta procesar la realidad a través de ese agujero. El resultado es el colapso semántico: el "Perro" terrestre desaparece y el modelo, intentando reconstruir la idea sobre un relieve roto, genera el **"Perdo Acuático"**. Es la prueba de que hemos modificado la arquitectura fundamental del concepto.
+
+## 🇺🇸 [EN] THE LOGIC OF THE INVERSE MOLD
+Concepts in an LLM are not isolated data points, but **topographic reliefs** within the weight mass.
+- **The Cassette**: By training under extreme L1 pressure, we force only the relief of the "Isolated Idea" (the dog) to be prominent, erasing surrounding noise.
+- **The Subtraction**: Subtracting this relief from the original model creates a **quantum vacuum** of information.
+- **Ghost Connections**: The network attempts to process reality through this hole. The result is semantic collapse: the terrestrial "Dog" disappears, and the model, trying to reconstruct the idea over a broken relief, generates the **"Aquatic Perdo"**. This is physical proof that we have modified the concept's fundamental architecture.
+
+## 🇨🇳 [ZH] 逆向模具的逻辑
+LLM 中的概念不是孤立的数据点，而是权重质量中的**地形浮雕**。
+- **卡带**: 通过在极端 L1 压力下进行训练，我们迫使只有“孤立思想”（狗）的浮雕突出，从而擦除周围的噪声。
+- **减法**: 从原始模型中减去这种浮雕会产生信息的**量子真空**。
+- **幽灵连接**: 网络试图通过这个洞来处理现实。结果是语义崩溃：陆地上的“狗”消失了，模型试图在破碎的浮雕上重建这一想法，产生了**“水生 Perdo”**。这是我们修改了概念基本架构的物理证明。
+
+---
+**Evidencia Empírica / Empirical Evidence / 实证证据:**
+- `EVIDENCIA_AUTOMATICA.json`
+- `PRUEBA_FORENSE.txt`
+- `3_MOLDE_UNIVERSAL_27K.pt`
+
 ---
 **Andres Santisteban**
 *Neural Identity Forge | Forensic Interpretability Researcher*
