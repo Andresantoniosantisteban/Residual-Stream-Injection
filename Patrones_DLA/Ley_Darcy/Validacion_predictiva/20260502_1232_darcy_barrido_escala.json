@@ -1,0 +1,43 @@
+{
+    "mejor_factor_encontrado": 0.9,
+    "porcentaje_decaimiento": 9.999999999999998,
+    "menor_error_mae": 219.124017951365,
+    "detalle_barrido": [
+        {
+            "factor": 0.9,
+            "error_mae": 219.124017951365
+        },
+        {
+            "factor": 0.91,
+            "error_mae": 245.6485996877509
+        },
+        {
+            "factor": 0.92,
+            "error_mae": 364.5897279965029
+        },
+        {
+            "factor": 0.93,
+            "error_mae": 550.1580094295546
+        },
+        {
+            "factor": 0.94,
+            "error_mae": 784.1059272846323
+        },
+        {
+            "factor": 0.95,
+            "error_mae": 1045.4398217375865
+        },
+        {
+            "factor": 0.96,
+            "error_mae": 1334.2757765528934
+        },
+        {
+            "factor": 0.97,
+            "error_mae": 1653.3721904991482
+        },
+        {
+            "factor": 0.98,
+            "error_mae": 2005.8145510171826
+        }
+    ]
+}

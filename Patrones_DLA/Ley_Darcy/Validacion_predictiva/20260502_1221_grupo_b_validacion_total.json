@@ -1,0 +1,188 @@
+{
+    "timestamp": "2026-05-02 12:21:09",
+    "autor": "Andr\u00e9s Antonio Santisteban Lino",
+    "metodo": "Hibridaci\u00f3n Inercia + Topograf\u00eda (Validaci\u00f3n Total)",
+    "objetivo_precision": "85-100%",
+    "sujetos_analizados": {
+        "gato_ato": {
+            "precision_r_pearson": 90.43262190130942,
+            "veredicto": "EXITO",
+            "viscosidad": 3.386063635606625
+        },
+        "perro_ro": {
+            "precision_r_pearson": 91.06775343210343,
+            "veredicto": "EXITO",
+            "viscosidad": 3.5580793605964893
+        },
+        "caballo_allo": {
+            "precision_r_pearson": 91.44992607963769,
+            "veredicto": "EXITO",
+            "viscosidad": 3.1798310518684008
+        },
+        "sol_\u0120sol": {
+            "precision_r_pearson": 88.56169133665965,
+            "veredicto": "EXITO",
+            "viscosidad": 2.882493036941177
+        },
+        "luna_una": {
+            "precision_r_pearson": 92.81477489110321,
+            "veredicto": "EXITO",
+            "viscosidad": 3.292710341590406
+        },
+        "agua_\u0120agua": {
+            "precision_r_pearson": 94.57196828916148,
+            "veredicto": "EXITO",
+            "viscosidad": 2.9709690438430316
+        },
+        "fuego_go": {
+            "precision_r_pearson": 92.3005411187122,
+            "veredicto": "EXITO",
+            "viscosidad": 3.135348665802227
+        },
+        "manzana_z": {
+            "precision_r_pearson": 94.5652393908636,
+            "veredicto": "EXITO",
+            "viscosidad": 4.001129947971374
+        },
+        "manzana_ana": {
+            "precision_r_pearson": 91.55739800819994,
+            "veredicto": "EXITO",
+            "viscosidad": 3.447680172510148
+        },
+        "dinero_\u0120dinero": {
+            "precision_r_pearson": 95.56446864755092,
+            "veredicto": "EXITO",
+            "viscosidad": 3.122071143389762
+        },
+        "casa_\u0120casa": {
+            "precision_r_pearson": 94.7978582625863,
+            "veredicto": "EXITO",
+            "viscosidad": 3.2148894872393563
+        },
+        "persona_\u0120persona": {
+            "precision_r_pearson": 95.42376059191433,
+            "veredicto": "EXITO",
+            "viscosidad": 3.2017518045314453
+        },
+        "\u00e1rbol_rb": {
+            "precision_r_pearson": 95.2951346183184,
+            "veredicto": "EXITO",
+            "viscosidad": 3.580494933375042
+        },
+        "\u00e1rbol_ol": {
+            "precision_r_pearson": 92.27890138538226,
+            "veredicto": "EXITO",
+            "viscosidad": 3.232736235122766
+        },
+        "computadora_adora": {
+            "precision_r_pearson": 93.93974712701134,
+            "veredicto": "EXITO",
+            "viscosidad": 3.222013348954106
+        },
+        "pan_\u0120pan": {
+            "precision_r_pearson": 85.32579575415282,
+            "veredicto": "EXITO",
+            "viscosidad": 3.2133722131928892
+        },
+        "ciudad_\u0120ciudad": {
+            "precision_r_pearson": 93.5354289481436,
+            "veredicto": "EXITO",
+            "viscosidad": 3.0276262525703834
+        },
+        "zapato_ato": {
+            "precision_r_pearson": 92.11208364062773,
+            "veredicto": "EXITO",
+            "viscosidad": 2.99810127021136
+        },
+        "mar_\u0120mar": {
+            "precision_r_pearson": 92.3517931098418,
+            "veredicto": "EXITO",
+            "viscosidad": 3.5081650197939083
+        },
+        "escuela_uela": {
+            "precision_r_pearson": 95.35254824842364,
+            "veredicto": "EXITO",
+            "viscosidad": 3.637227220704199
+        },
+        "libro_\u0120libro": {
+            "precision_r_pearson": 95.41532122751954,
+            "veredicto": "EXITO",
+            "viscosidad": 2.9891484633816723
+        },
+        "flor_\u0120flor": {
+            "precision_r_pearson": 85.16421591123475,
+            "veredicto": "EXITO",
+            "viscosidad": 3.12522469591528
+        },
+        "avi\u00f3n_i\u00c3\u00b3n": {
+            "precision_r_pearson": 93.5353460670952,
+            "veredicto": "EXITO",
+            "viscosidad": 3.3734911311331044
+        },
+        "lluvia_uv": {
+            "precision_r_pearson": 87.76285945389264,
+            "veredicto": "EXITO",
+            "viscosidad": 3.161134242413056
+        },
+        "lluvia_ia": {
+            "precision_r_pearson": 92.53326860974921,
+            "veredicto": "EXITO",
+            "viscosidad": 3.4889595551776327
+        },
+        "reloj_lo": {
+            "precision_r_pearson": 95.4007572243199,
+            "veredicto": "EXITO",
+            "viscosidad": 3.6872982128570087
+        },
+        "reloj_j": {
+            "precision_r_pearson": 90.10713465033486,
+            "veredicto": "EXITO",
+            "viscosidad": 3.288155631707297
+        },
+        "bicicleta_ic": {
+            "precision_r_pearson": 94.3418093536208,
+            "veredicto": "EXITO",
+            "viscosidad": 3.5193763096294357
+        },
+        "bicicleta_leta": {
+            "precision_r_pearson": 93.49930956770731,
+            "veredicto": "EXITO",
+            "viscosidad": 2.8213745899648925
+        },
+        "az\u00facar_car": {
+            "precision_r_pearson": 91.77718261104373,
+            "veredicto": "EXITO",
+            "viscosidad": 3.098329950872464
+        },
+        "p\u00e1jaro_j": {
+            "precision_r_pearson": 92.9293196451022,
+            "veredicto": "EXITO",
+            "viscosidad": 3.8534164262280073
+        },
+        "p\u00e1jaro_aro": {
+            "precision_r_pearson": 88.65590376585381,
+            "veredicto": "EXITO",
+            "viscosidad": 3.0696220279477027
+        },
+        "ventana_\u0120ventana": {
+            "precision_r_pearson": 93.25257570380778,
+            "veredicto": "EXITO",
+            "viscosidad": 3.0606302593306363
+        },
+        "m\u00e9dico_\u0120m\u00c3\u00a9dico": {
+            "precision_r_pearson": 95.63531140400491,
+            "veredicto": "EXITO",
+            "viscosidad": 2.983975551919493
+        },
+        "m\u00fasica_\u0120m\u00c3\u00basica": {
+            "precision_r_pearson": 95.85335445598345,
+            "veredicto": "EXITO",
+            "viscosidad": 2.9358334016303775
+        },
+        "barco_co": {
+            "precision_r_pearson": 91.61322627231105,
+            "veredicto": "EXITO",
+            "viscosidad": 3.5539761006284043
+        }
+    }
+}
