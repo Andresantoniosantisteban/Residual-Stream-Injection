@@ -1,0 +1,6 @@
+Concepto,Escenario_Alto_Pearson,Escenario_Medio_Pearson,Escenario_Bajo_Pearson,Ganador,Precision_Pico
+LAVA,93.47,69.96,32.73,ALTO,93.47
+LOBO,91.34,65.05,29.76,ALTO,91.34
+SATÉLITE,94.54,71.68,34.31,ALTO,94.54
+JUSTICIA,96.05,77.71,40.41,ALTO,96.05
+HONGO,93.95,71.14,33.95,ALTO,93.95

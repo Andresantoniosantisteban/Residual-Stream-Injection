@@ -1,0 +1,6 @@
+--- MONITOR DE ESCANEO INCOGNITO ---
+Último Pulso: 2026-05-02 19:25:10
+Sujeto Actual: HONGO
+Token: ?
+Progreso: 7/7
+Estado: TRABAJANDO...
