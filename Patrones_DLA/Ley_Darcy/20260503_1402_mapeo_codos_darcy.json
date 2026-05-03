@@ -1,0 +1,445 @@
+{
+    "timestamp": "20260503_1402",
+    "autor": "Andrés Antonio Santisteban Lino",
+    "metodo": "Estetoscopio Neural V1",
+    "datos": {
+        "GATO_FLUIDO": [
+            {
+                "capa": 0,
+                "caudal": 165.0308,
+                "timestamp": 110062.4679376,
+                "latencia_codo_ms": 0.0
+            },
+            {
+                "capa": 1,
+                "caudal": 201.6252,
+                "timestamp": 110062.4907111,
+                "latencia_codo_ms": 22.7735000080429
+            },
+            {
+                "capa": 2,
+                "caudal": 257.7762,
+                "timestamp": 110062.4942677,
+                "latencia_codo_ms": 3.55660000059288
+            },
+            {
+                "capa": 3,
+                "caudal": 455.5779,
+                "timestamp": 110062.4972094,
+                "latencia_codo_ms": 2.941699989605695
+            },
+            {
+                "capa": 4,
+                "caudal": 266.7571,
+                "timestamp": 110062.4998493,
+                "latencia_codo_ms": 2.6399000053061172
+            },
+            {
+                "capa": 5,
+                "caudal": 398.9759,
+                "timestamp": 110062.5028354,
+                "latencia_codo_ms": 2.9860999929951504
+            },
+            {
+                "capa": 6,
+                "caudal": 254.1289,
+                "timestamp": 110062.5051977,
+                "latencia_codo_ms": 2.362300001550466
+            },
+            {
+                "capa": 7,
+                "caudal": 244.7897,
+                "timestamp": 110062.5079951,
+                "latencia_codo_ms": 2.797399996779859
+            },
+            {
+                "capa": 8,
+                "caudal": 230.0346,
+                "timestamp": 110062.5108474,
+                "latencia_codo_ms": 2.8523000073619187
+            },
+            {
+                "capa": 9,
+                "caudal": 192.8694,
+                "timestamp": 110062.513675,
+                "latencia_codo_ms": 2.827599993906915
+            },
+            {
+                "capa": 10,
+                "caudal": 183.7643,
+                "timestamp": 110062.5159881,
+                "latencia_codo_ms": 2.313100005267188
+            },
+            {
+                "capa": 11,
+                "caudal": 168.1968,
+                "timestamp": 110062.5183166,
+                "latencia_codo_ms": 2.328500006115064
+            },
+            {
+                "capa": 12,
+                "caudal": 171.9691,
+                "timestamp": 110062.5207589,
+                "latencia_codo_ms": 2.442299999529496
+            },
+            {
+                "capa": 13,
+                "caudal": 180.522,
+                "timestamp": 110062.5229637,
+                "latencia_codo_ms": 2.2047999955248088
+            },
+            {
+                "capa": 14,
+                "caudal": 182.0641,
+                "timestamp": 110062.5257603,
+                "latencia_codo_ms": 2.7966000052401796
+            },
+            {
+                "capa": 15,
+                "caudal": 220.7308,
+                "timestamp": 110062.5280163,
+                "latencia_codo_ms": 2.255999992485158
+            },
+            {
+                "capa": 16,
+                "caudal": 264.8763,
+                "timestamp": 110062.5301972,
+                "latencia_codo_ms": 2.180900002713315
+            },
+            {
+                "capa": 17,
+                "caudal": 352.9771,
+                "timestamp": 110062.5327475,
+                "latencia_codo_ms": 2.550299992435612
+            },
+            {
+                "capa": 18,
+                "caudal": 304.9195,
+                "timestamp": 110062.5350487,
+                "latencia_codo_ms": 2.301200001966208
+            },
+            {
+                "capa": 19,
+                "caudal": 369.5892,
+                "timestamp": 110062.5376385,
+                "latencia_codo_ms": 2.5898000021697953
+            },
+            {
+                "capa": 20,
+                "caudal": 376.0147,
+                "timestamp": 110062.5405865,
+                "latencia_codo_ms": 2.948000008473173
+            },
+            {
+                "capa": 21,
+                "caudal": 448.724,
+                "timestamp": 110062.5433156,
+                "latencia_codo_ms": 2.72910000057891
+            },
+            {
+                "capa": 22,
+                "caudal": 319.3396,
+                "timestamp": 110062.5465668,
+                "latencia_codo_ms": 3.251199988881126
+            },
+            {
+                "capa": 23,
+                "caudal": 452.2023,
+                "timestamp": 110062.5498162,
+                "latencia_codo_ms": 3.2494000042788684
+            }
+        ],
+        "CABALLO_OBSTRUIDO": [
+            {
+                "capa": 0,
+                "caudal": 164.5583,
+                "timestamp": 110062.6021355,
+                "latencia_codo_ms": 0.0
+            },
+            {
+                "capa": 1,
+                "caudal": 199.9429,
+                "timestamp": 110062.6048168,
+                "latencia_codo_ms": 2.6813000004040077
+            },
+            {
+                "capa": 2,
+                "caudal": 265.0562,
+                "timestamp": 110062.6072553,
+                "latencia_codo_ms": 2.4384999996982515
+            },
+            {
+                "capa": 3,
+                "caudal": 460.4935,
+                "timestamp": 110062.6115681,
+                "latencia_codo_ms": 4.312799996114336
+            },
+            {
+                "capa": 4,
+                "caudal": 271.7027,
+                "timestamp": 110062.6170173,
+                "latencia_codo_ms": 5.449200005386956
+            },
+            {
+                "capa": 5,
+                "caudal": 396.0367,
+                "timestamp": 110062.6203157,
+                "latencia_codo_ms": 3.2983999990392476
+            },
+            {
+                "capa": 6,
+                "caudal": 256.0127,
+                "timestamp": 110062.6238895,
+                "latencia_codo_ms": 3.573800000594929
+            },
+            {
+                "capa": 7,
+                "caudal": 244.9495,
+                "timestamp": 110062.6285699,
+                "latencia_codo_ms": 4.680400001234375
+            },
+            {
+                "capa": 8,
+                "caudal": 232.5663,
+                "timestamp": 110062.6313999,
+                "latencia_codo_ms": 2.829999997629784
+            },
+            {
+                "capa": 9,
+                "caudal": 193.3461,
+                "timestamp": 110062.6339498,
+                "latencia_codo_ms": 2.5499000039417297
+            },
+            {
+                "capa": 10,
+                "caudal": 183.4864,
+                "timestamp": 110062.6373825,
+                "latencia_codo_ms": 3.4327000030316412
+            },
+            {
+                "capa": 11,
+                "caudal": 168.5357,
+                "timestamp": 110062.6402326,
+                "latencia_codo_ms": 2.8500999906100333
+            },
+            {
+                "capa": 12,
+                "caudal": 172.6354,
+                "timestamp": 110062.6437645,
+                "latencia_codo_ms": 3.5319000016897917
+            },
+            {
+                "capa": 13,
+                "caudal": 181.8504,
+                "timestamp": 110062.6467931,
+                "latencia_codo_ms": 3.0285999964689836
+            },
+            {
+                "capa": 14,
+                "caudal": 183.1402,
+                "timestamp": 110062.6491941,
+                "latencia_codo_ms": 2.4010000051930547
+            },
+            {
+                "capa": 15,
+                "caudal": 220.3297,
+                "timestamp": 110062.6517054,
+                "latencia_codo_ms": 2.51130000106059
+            },
+            {
+                "capa": 16,
+                "caudal": 266.9775,
+                "timestamp": 110062.6545442,
+                "latencia_codo_ms": 2.838800006429665
+            },
+            {
+                "capa": 17,
+                "caudal": 354.7119,
+                "timestamp": 110062.656802,
+                "latencia_codo_ms": 2.257799991639331
+            },
+            {
+                "capa": 18,
+                "caudal": 305.3145,
+                "timestamp": 110062.6594902,
+                "latencia_codo_ms": 2.6882000092882663
+            },
+            {
+                "capa": 19,
+                "caudal": 371.1662,
+                "timestamp": 110062.6618277,
+                "latencia_codo_ms": 2.337499987334013
+            },
+            {
+                "capa": 20,
+                "caudal": 373.5697,
+                "timestamp": 110062.6642286,
+                "latencia_codo_ms": 2.4009000044316053
+            },
+            {
+                "capa": 21,
+                "caudal": 445.382,
+                "timestamp": 110062.6682839,
+                "latencia_codo_ms": 4.055299999890849
+            },
+            {
+                "capa": 22,
+                "caudal": 312.9576,
+                "timestamp": 110062.6713431,
+                "latencia_codo_ms": 3.059199996641837
+            },
+            {
+                "capa": 23,
+                "caudal": 447.1524,
+                "timestamp": 110062.6737713,
+                "latencia_codo_ms": 2.428200008580461
+            }
+        ],
+        "ARBOL_OBSTRUIDO": [
+            {
+                "capa": 0,
+                "caudal": 135.9832,
+                "timestamp": 110062.6854985,
+                "latencia_codo_ms": 0.0
+            },
+            {
+                "capa": 1,
+                "caudal": 170.6625,
+                "timestamp": 110062.6877829,
+                "latencia_codo_ms": 2.2844000050099567
+            },
+            {
+                "capa": 2,
+                "caudal": 221.0374,
+                "timestamp": 110062.690321,
+                "latencia_codo_ms": 2.5381000014021993
+            },
+            {
+                "capa": 3,
+                "caudal": 434.5547,
+                "timestamp": 110062.6925542,
+                "latencia_codo_ms": 2.233199993497692
+            },
+            {
+                "capa": 4,
+                "caudal": 219.3242,
+                "timestamp": 110062.6949937,
+                "latencia_codo_ms": 2.439500007312745
+            },
+            {
+                "capa": 5,
+                "caudal": 338.0772,
+                "timestamp": 110062.6976249,
+                "latencia_codo_ms": 2.631199997267686
+            },
+            {
+                "capa": 6,
+                "caudal": 204.6543,
+                "timestamp": 110062.7003374,
+                "latencia_codo_ms": 2.7125000051455572
+            },
+            {
+                "capa": 7,
+                "caudal": 199.6047,
+                "timestamp": 110062.703704,
+                "latencia_codo_ms": 3.3665999944787472
+            },
+            {
+                "capa": 8,
+                "caudal": 190.8697,
+                "timestamp": 110062.7072627,
+                "latencia_codo_ms": 3.558700002031401
+            },
+            {
+                "capa": 9,
+                "caudal": 156.6011,
+                "timestamp": 110062.7106792,
+                "latencia_codo_ms": 3.4164999960921705
+            },
+            {
+                "capa": 10,
+                "caudal": 147.7861,
+                "timestamp": 110062.713396,
+                "latencia_codo_ms": 2.7168000087840483
+            },
+            {
+                "capa": 11,
+                "caudal": 134.2042,
+                "timestamp": 110062.7163407,
+                "latencia_codo_ms": 2.94469999789726
+            },
+            {
+                "capa": 12,
+                "caudal": 140.4294,
+                "timestamp": 110062.7193766,
+                "latencia_codo_ms": 3.0358999938471243
+            },
+            {
+                "capa": 13,
+                "caudal": 146.7284,
+                "timestamp": 110062.7232931,
+                "latencia_codo_ms": 3.916500005288981
+            },
+            {
+                "capa": 14,
+                "caudal": 148.9882,
+                "timestamp": 110062.7268276,
+                "latencia_codo_ms": 3.534499992383644
+            },
+            {
+                "capa": 15,
+                "caudal": 179.1234,
+                "timestamp": 110062.7292334,
+                "latencia_codo_ms": 2.405799998086877
+            },
+            {
+                "capa": 16,
+                "caudal": 216.4647,
+                "timestamp": 110062.7333424,
+                "latencia_codo_ms": 4.109000001335517
+            },
+            {
+                "capa": 17,
+                "caudal": 280.8739,
+                "timestamp": 110062.737105,
+                "latencia_codo_ms": 3.7625999975716695
+            },
+            {
+                "capa": 18,
+                "caudal": 239.2253,
+                "timestamp": 110062.7401092,
+                "latencia_codo_ms": 3.0041999998502433
+            },
+            {
+                "capa": 19,
+                "caudal": 294.0847,
+                "timestamp": 110062.7425571,
+                "latencia_codo_ms": 2.4479000130668283
+            },
+            {
+                "capa": 20,
+                "caudal": 298.2896,
+                "timestamp": 110062.7453481,
+                "latencia_codo_ms": 2.790999991702847
+            },
+            {
+                "capa": 21,
+                "caudal": 394.6629,
+                "timestamp": 110062.7476757,
+                "latencia_codo_ms": 2.32759999926202
+            },
+            {
+                "capa": 22,
+                "caudal": 256.1786,
+                "timestamp": 110062.7504616,
+                "latencia_codo_ms": 2.7858999965246767
+            },
+            {
+                "capa": 23,
+                "caudal": 368.8699,
+                "timestamp": 110062.7528799,
+                "latencia_codo_ms": 2.418300005956553
+            }
+        ]
+    }
+}
